@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://favicon-gen.pages.dev/sitemap.xml
